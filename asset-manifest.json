@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/my-RP/static/css/main.28c4a95a.css",
+    "main.js": "/my-RP/static/js/main.6db9b407.js",
+    "static/media/App.png": "/my-RP/static/media/App.d5e637b6f0a3bd24d781.png",
+    "static/media/x.jpg": "/my-RP/static/media/x.35651f3aed40e4684b36.jpg",
+    "static/media/About.jpg": "/my-RP/static/media/About.2835c2d29d387da9f929.jpg",
+    "static/media/design.jpg": "/my-RP/static/media/design.8de18d4edb14e11104b4.jpg",
+    "static/media/service.jpg": "/my-RP/static/media/service.61a4e4a5e5c26e607b03.jpg",
+    "static/media/Android.jpg": "/my-RP/static/media/Android.154f383fe75f35720b9f.jpg",
+    "index.html": "/my-RP/index.html",
+    "main.28c4a95a.css.map": "/my-RP/static/css/main.28c4a95a.css.map",
+    "main.6db9b407.js.map": "/my-RP/static/js/main.6db9b407.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28c4a95a.css",
+    "static/js/main.6db9b407.js"
+  ]
+}
